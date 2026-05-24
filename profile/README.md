@@ -15,10 +15,7 @@ Aqui compartilho projetos de:
 - 🌐 Desenvolvimento Web
 - ⚙️ Backend APIs
 - 📱 Aplicações modernas
-- ☁️ Integração com Firebase e Supabase
 - 🐳 Docker & CI/CD
-- 💻 Sistemas em Java
-- 🚗 Plataformas e micro-SaaS
 
 ---
 
@@ -26,25 +23,9 @@ Aqui compartilho projetos de:
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,java,php,nodejs,supabase,firebase,docker,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,java,python,django,docker,git,github,postgresql,linux" />
 
 </p>
-
----
-
-## 📌 Projetos em Destaque
-
-### 🔹 Utilix
-Plataforma de aluguel de objetos entre usuários.
-
-### 🔹 ReserveAqui
-Sistema de reservas e gerenciamento.
-
-### 🔹 Guia Digital de Serviços
-Plataforma web para serviços da cidade.
-
-### 🔹 Transporte Local
-Aplicação web de mobilidade urbana.
 
 ---
 
@@ -52,9 +33,9 @@ Aplicação web de mobilidade urbana.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhone-rdz&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhone-rdz&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -62,9 +43,9 @@ Aplicação web de mobilidade urbana.
 
 ## 🌎 Contato
 
-- GitHub: https://github.com/SEUUSUARIO
-- LinkedIn: SEULINKEDIN
-- Email: SEUEMAIL
+- GitHub: https://github.com/jhone-rdz
+- LinkedIn: https://www.linkedin.com/in/jhone-r-6b77b226a/
+- Email: jhone.rodrigues51@gmail.com
 
 ---
 
