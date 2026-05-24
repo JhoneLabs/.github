@@ -6,16 +6,16 @@
 
 ---
 
-## 👨‍💻 Sobre
+## Sobre
 
 A **JhoneLabs** é uma organização focada no desenvolvimento de projetos de software, aplicações web e soluções tecnológicas modernas.
 
 Aqui compartilho projetos de:
 
-- 🌐 Desenvolvimento Web
-- ⚙️ Backend APIs
-- 📱 Aplicações modernas
-- 🐳 Docker & CI/CD
+- Desenvolvimento Web
+- Backend APIs
+- Aplicações modernas
+- Docker & CI/CD
 
 ---
 
