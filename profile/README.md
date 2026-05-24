@@ -1,4 +1,4 @@
-<h1 align="center">🚀 JhoneLabs</h1>
+<h1 align="center">JhoneLabs</h1>
 
 <p align="center">
   Desenvolvimento de aplicações web, sistemas backend e soluções digitais modernas.
@@ -19,7 +19,7 @@ Aqui compartilho projetos de:
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="left">
 
@@ -29,16 +29,7 @@ Aqui compartilho projetos de:
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhone-rdz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhone-rdz&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
-
-## 🌎 Contato
+## Contato
 
 - GitHub: https://github.com/jhone-rdz
 - LinkedIn: https://www.linkedin.com/in/jhone-r-6b77b226a/
@@ -47,5 +38,5 @@ Aqui compartilho projetos de:
 ---
 
 <p align="center">
-  ✨ Transformando ideias em soluções digitais.
+  Transformando ideias em soluções digitais.
 </p>
